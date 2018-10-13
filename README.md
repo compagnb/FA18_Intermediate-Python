@@ -1,7 +1,7 @@
 ## Intermediate Software Development - Python: Grades 5-12
 * Instructor: Barbara Compagnoni
 * Email: compagnb@gmail.com
-* Class Repo: http://www.github.com/compagnb/FA18-Intermediate-Python
+* Class Repo: https://github.com/compagnb/FA18_Intermediate-Python
 
 ### Course Outline
 * Week 1: Review
