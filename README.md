@@ -20,7 +20,17 @@ Projects include variations of the games: space invaders, pong, pitfall to inclu
 
 ### Course Breakdown:
 
-#### [Week 1: Review](wkNotes/wk1Rev.md)
+#### [Week 1: Review](wkNotes/wk1.md)
+* Review of 
+	* Functions
+	* Variables
+	* Conditionals
+	* Masking
+
+#### [Week 2: Arrays](wkNotes/wk2.md)
+* Array Basics
+* For Loops
+
 #### [Week 1: Classes & Objects](wkNotes/wk1.md)
 * Adding Objects to Classes
 * Adding Class Characteristics as Functions
@@ -85,7 +95,6 @@ Projects include variations of the games: space invaders, pong, pitfall to inclu
 #### [Week 5 & 6: Collision Detection & Object Arrays](wkNotes/wk4.md)
 * Review
 * background/sprite
-* Array Basics
 * Index
 * Printing
 * Iteration using loops
