@@ -5,7 +5,8 @@
 
 ### Course Outline
 * Week 1: Review
-* Week 2: Classes & Objects (Generative Art)
+* Week 2: Arrays & Iteration Loops (Generative Art)
+* Classes & Objects 
 * Week 3: Modules
 * Week 4: Modules & Key binding 
 * Week 5: Key binding & Basic Sprites
@@ -27,7 +28,7 @@ Projects include variations of the games: space invaders, pong, pitfall to inclu
 	* Conditionals
 	* Masking
 
-#### [Week 2: Arrays](wkNotes/wk2.md)
+#### [Week 2: Arrays & Iterative Loops](wkNotes/wk2.md)
 * Array Basics
 * For Loops
 
